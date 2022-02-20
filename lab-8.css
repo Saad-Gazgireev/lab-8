@@ -1,0 +1,61 @@
+.king{
+    margin-left: 50%;
+    width: 100%;
+}
+.main{
+    margin-left: 50;
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    
+   
+}
+.upblock{
+    width: 540px;
+    background-color: brown;
+    height: 540px;
+}
+
+.parrentorange{
+    
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    margin-left: 30px ;
+    justify-content: space-between;
+}
+
+.daughterorange{
+    width: 270px;
+    height: 250px;
+    background-color: orange;
+   
+
+}
+.father{
+    
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.parrentreddaughter{
+    width: 540px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.reddaughter{
+    width: 255px;
+    height: 250px;
+    background-color: brown;
+}
+
+.orangemini{
+    margin-top: 30px;
+    width: 570px;
+    height: 250px;
+    background-color: orange;
+}
